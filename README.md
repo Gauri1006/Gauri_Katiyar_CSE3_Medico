@@ -2,7 +2,7 @@
 # 🩺 Medico - AI Medical Report Translator  
 **Team**: Gauri Katiyar , Pallavi Roy , Swastik Mishra , Yash Raj 
 
-**Project Code**: [📊 View Slides](Medico_Presentation.pptx)
+**Project Code**: [ View code](Medico_Presentation.pptx)
 
 **Project Report**: [📊 View Slides](Medico_Presentation.pptx)
 
