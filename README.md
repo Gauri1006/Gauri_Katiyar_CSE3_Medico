@@ -20,4 +20,4 @@ Medico: AI that explains medical reports in plain language. Understand your heal
 - **Database**: MongoDB  
 
 ## 🚀 Website
-themedico.netlify.app
+https://themedico.netlify.app/
