@@ -2,6 +2,9 @@
 # 🩺 Medico - AI Medical Report Translator  
 **Team**: Gauri Katiyar , Pallavi Roy , Swastik Mishra , Yash Raj 
 
+## 🚀 Website
+https://themedico.netlify.app/
+
 **Source Code**: [ View code]https://github.com/myselfswastikmishra/medico-gemini-assist/tree/main
 
 **Presentation**: [📊 View Slides]https://github.com/Gauri1006/Gauri_Katiyar_CSE3_Medico/blob/main/MEDICO%20presentation.pptx
@@ -20,5 +23,4 @@ Medico: AI that explains medical reports in plain language. Understand your heal
 - **AI**: BioBERT, GPT-3.5  
 - **Database**: MongoDB  
 
-## 🚀 Website
-https://themedico.netlify.app/
+
