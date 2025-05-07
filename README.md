@@ -4,11 +4,12 @@
 
 **Source Code**: [ View code]https://github.com/myselfswastikmishra/medico-gemini-assist/tree/main
 
+**Presentation**: [📊 View Slides]https://github.com/Gauri1006/Gauri_Katiyar_CSE3_Medico/blob/main/MEDICO%20presentation.pptx
+
 **Project File**: [📊 View Slides]https://github.com/Gauri1006/Gauri_Katiyar_CSE3_Medico/blob/main/project%20file.docx
 
 **Video representation**: [📺 Watch Here](link_to_video_in_repo) 
 
-**Presentation**: [📊 View Slides]https://github.com/Gauri1006/Gauri_Katiyar_CSE3_Medico/blob/main/MEDICO%20presentation.pptx
 
 ## 📝 Description  
 Medico: AI that explains medical reports in plain language. Understand your health results instantly.
