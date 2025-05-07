@@ -2,7 +2,7 @@
 # 🩺 Medico - AI Medical Report Translator  
 **Team**: Gauri Katiyar , Pallavi Roy , Swastik Mishra , Yash Raj 
 
-**Project Code**: [ View code](Medico_Presentation.pptx)
+**Source Code**: [ View code]https://github.com/myselfswastikmishra/medico-gemini-assist/tree/main
 
 **Project Report**: [📊 View Slides]https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGauri1006%2FGauri_Katiyar_CSE3_Medico%2Frefs%2Fheads%2Fmain%2Fmedico%2520report%2520file.docx&wdOrigin=BROWSELINK
 
