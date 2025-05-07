@@ -11,7 +11,7 @@ https://themedico.netlify.app/
 
 **Project File**: [📊 View Slides]https://github.com/Gauri1006/Gauri_Katiyar_CSE3_Medico/blob/main/project%20file.docx
 
-**Video representation**: [📺 Watch Here](link_to_video_in_repo) 
+**Video representation**: [📺 Watch Here]https://github.com/Gauri1006/Gauri_Katiyar_CSE3_Medico/blob/main/VIDEO%20REPRESENTATION.mp4 
 
 
 ## 📝 Description  
