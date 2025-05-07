@@ -8,7 +8,7 @@
 
 **Video representation**: [📺 Watch Here](link_to_video_in_repo) 
 
-**Project Presentation**: [📊 View Slides]https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGauri1006%2FGauri_Katiyar_CSE3_Medico%2Frefs%2Fheads%2Fmain%2FMEDICO%2520presentation.pptx&wdOrigin=BROWSELINK
+**Presentation**: [📊 View Slides]https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGauri1006%2FGauri_Katiyar_CSE3_Medico%2Frefs%2Fheads%2Fmain%2FMEDICO%2520presentation.pptx&wdOrigin=BROWSELINK
 
 ## 📝 Description  
 Medico: AI that explains medical reports in plain language. Understand your health results instantly.
